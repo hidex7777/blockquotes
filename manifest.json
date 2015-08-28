@@ -1,0 +1,14 @@
+{
+  "name": "Block Quotes",
+  "description": "Create an HTML format block quote from selection",
+  "version": "0.1",
+  "permissions": [
+    "contextMenus",
+    "http://*/*",
+    "https://*/*"
+  ],
+  "background": {
+    "page": "bq.html"
+  },
+  "manifest_version": 2
+}
